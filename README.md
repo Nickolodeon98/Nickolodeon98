@@ -41,13 +41,17 @@ Currently teaching **Maths** to primary school students.
 <br>
 
 ### 🚩 References
+
+<a href="https://itistori.tistory.com/" target="_blank">
+<img src=https://img.shields.io/badge/Tech_Blog-black?logo=Github&link=https://itistori.tistory.com/></a>
+
+<a href="https://gitlab.com/fy16sj/" target="_blank">
+<img src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab"/></a>
   
-<object> ![Static Badge](https://img.shields.io/badge/Tech_Blog-black?logo=Github&link=https://itistori.tistory.com) </object>
-<object> ![Static Badge](https://img.shields.io/badge/Gitlab-orange?logo=gitlab&link=https://gitlab.com/fy16sj) </object>
-<object> ![Static Badge](https://img.shields.io/badge/Gmail-%23EC1C24?logo=Gmail&logoColor=white&link=sjeon0730%40gmail.com) </object>
+<a href="sjeon0730%40gmail.com/" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23EC1C24?logo=Gmail&logoColor=white"/></a>
 
 </div>
-
 
 <div align=center>
 
