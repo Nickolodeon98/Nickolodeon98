@@ -14,7 +14,7 @@ Based in **Incheon**, writing code snippets on a daily basis.
 
 Currently teaching **Maths** to primary school students.
 
-<hr>
+<br>
 
 ### ⚔ Skills Set
 
@@ -40,13 +40,13 @@ Currently teaching **Maths** to primary school students.
 ![Static Badge](https://img.shields.io/badge/Sourcetree-%230052CC?logo=sourcetree&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?logo=Amazon%20EC2&logoColor=white)
 
-<hr>
+<br>
 
 ### 🚩 References
   
-![Static Badge](https://img.shields.io/badge/Tech_Blog-black?logo=Github&link=https://itistori.tistory.com)
-![Static Badge](https://img.shields.io/badge/Gitlab-orange?logo=gitlab&link=https://gitlab.com/fy16sj)
-![Static Badge](https://img.shields.io/badge/Gmail-%23EC1C24?logo=Gmail&logoColor=white&link=sjeon0730%40gmail.com)
+<object> ![Static Badge](https://img.shields.io/badge/Tech_Blog-black?logo=Github&link=https://itistori.tistory.com) </object>
+<object> ![Static Badge](https://img.shields.io/badge/Gitlab-orange?logo=gitlab&link=https://gitlab.com/fy16sj) </object>
+<object> ![Static Badge](https://img.shields.io/badge/Gmail-%23EC1C24?logo=Gmail&logoColor=white&link=sjeon0730%40gmail.com) </object>
 
 </div>
 
