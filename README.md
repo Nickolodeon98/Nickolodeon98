@@ -4,7 +4,7 @@
 
 <div align=center>
 
-## 👨‍💻 About
+### 👨‍💻 About
 
 A commited **Backend Developer**.
 
@@ -14,8 +14,9 @@ Based in **Incheon**, writing code snippets on a daily basis.
 
 Currently teaching **Maths** to primary school students.
 
+<hr>
 
-## ⚔ Skills Set
+### ⚔ Skills Set
 
 ![Static Badge](https://img.shields.io/badge/JAVA-yellow?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-grey?logo=c&logoColor=%23A8B9CC)
@@ -39,8 +40,9 @@ Currently teaching **Maths** to primary school students.
 ![Static Badge](https://img.shields.io/badge/Sourcetree-%230052CC?logo=sourcetree&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?logo=Amazon%20EC2&logoColor=white)
 
+<hr>
 
-## 🚩 References
+### 🚩 References
   
 ![Static Badge](https://img.shields.io/badge/Tech_Blog-black?logo=Github&link=https%3A%2F%2Fitistori.tistory.com%2F)
 ![Static Badge](https://img.shields.io/badge/Gitlab-orange?logo=gitlab&link=https%3A%2F%2Fgitlab.com%2Ffy16sj)
