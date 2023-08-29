@@ -4,29 +4,16 @@
 
 <div align=center>
 
-🔭 I’m currently working on being a Back-End Developer
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nickolodeon98)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolodeon98&layout=compact)
 
-🌱 I’m currently learning Spring Boot, Java, 
+</div>
 
-👯 I’m looking to collaborate on Web Projects
-
-🤔 I’m looking for help with Coding Tests
-
-💬 Ask me about my hobby!
-
-📫 How to reach me: sjeon0730@gmail.com
-
-⚡ Fun fact: I have graduated from the UK!
-
+<div align=center>
   
 ![Static Badge](https://img.shields.io/badge/Tech_Blog-black?logo=Github&link=https%3A%2F%2Fitistori.tistory.com%2F)
 ![Static Badge](https://img.shields.io/badge/Gitlab-orange?logo=gitlab&link=https%3A%2F%2Fgitlab.com%2Ffy16sj)
 ![Static Badge](https://img.shields.io/badge/Gmail-%23EC1C24?logo=Gmail&logoColor=white&link=sjeon0730%40gmail.com)
 
-
-
-
-
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nickolodeon98)](https://github.com/anuraghazra/github-readme-stats)
