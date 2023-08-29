@@ -14,7 +14,6 @@ Based in **Incheon**, writing code snippets on a daily basis.
 
 Currently teaching **Maths** to primary school students.
 
-<br>
 
 ## ⚔ Skills Set
 
@@ -40,7 +39,6 @@ Currently teaching **Maths** to primary school students.
 ![Static Badge](https://img.shields.io/badge/Sourcetree-%230052CC?logo=sourcetree&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?logo=Amazon%20EC2&logoColor=white)
 
-<br>
 
 ## 🚩 References
   
