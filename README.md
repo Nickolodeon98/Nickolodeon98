@@ -8,7 +8,9 @@ A commited **Backend Developer**.
 
 Eager to reaching a deep hidden place where things on surface actually exist.
 
-Based in **Incheon**, writing code snippets on a daily basis.
+Studied in **University of Leeds**, a prestigious school as a member of Russell Group.
+
+Based in **Incheon** writing code snippets on a daily basis.
 
 Currently teaching **Maths** to primary school students.
 
