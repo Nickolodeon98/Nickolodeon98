@@ -48,7 +48,7 @@ Currently teaching **Maths** to primary school students.
 <img src="https://img.shields.io/badge/Cover_Letter-blue?logo=Notion"/></a>
 
 <a href="https://itistori.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/Tech_Blog-black?logo=Github&link=https://itistori.tistory.com/></a>
+<img src=https://img.shields.io/badge/Tech_Blog-green?logo=tistory&link=https://itistori.tistory.com/></a>
 
 <a href="https://gitlab.com/fy16sj/" target="_blank">
 <img src="https://img.shields.io/badge/Gitlab-orange?logo=gitlab"/></a>
