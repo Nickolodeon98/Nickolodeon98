@@ -53,6 +53,9 @@ Currently teaching **Maths** to primary school students.
 <a href="sjeon0730%40gmail.com/" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-%23EC1C24?logo=Gmail&logoColor=white"/></a>
 
+<a href="https://wobbly-cod-e9f.notion.site/41a788e80de24cb6be5f0bef4d30b808?pvs=4/" target="_blank">
+<img src="https://img.shields.io/badge/Cover_Letter-blue?logo=Notion"/></a>
+
 </div>
 
 <div align=center>
