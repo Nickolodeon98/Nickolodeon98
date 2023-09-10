@@ -16,7 +16,7 @@ Currently teaching **Maths** to primary school students.
 
 <br>
 
-### ⚔ Skill Set
+### ⚔ Skills Set
 
 ![Static Badge](https://img.shields.io/badge/JAVA-yellow?logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-grey?logo=c&logoColor=%23A8B9CC)
