@@ -2,7 +2,7 @@
 
 <div align=center>
 
-### 👨🏻‍💻 About
+### 👨🏻‍💻 About Me
 
 A commited **Backend Developer**.
 
