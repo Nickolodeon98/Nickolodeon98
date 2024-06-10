@@ -12,7 +12,7 @@ Studied in the **University of Leeds**, a prestigious English school as a member
 
 Based in **Incheon**, writing code snippets on a daily basis.
 
-Currently working as a **Backend Developer** in a AIoT company People & Technology.
+Currently building AIoT solution IndoorPlus+ at **People & Technology**.
 
 <br>
 
