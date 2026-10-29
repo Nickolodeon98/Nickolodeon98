@@ -55,8 +55,8 @@ Currently building AIoT solution IndoorPlus+ at **People & Technology**.
 
 <div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nickolodeon98)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolodeon98&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nickolodeon98&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Nickolodeon98&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nickolodeon98&layout=compact&langs_count=8&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=Nickolodeon98&layout=compact&langs_count=8&theme=ambient_gradient)
 
 </div>
 
